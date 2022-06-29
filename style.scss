@@ -21,7 +21,7 @@ body {
 	background: $white;
   font: 18px/1.4;
   font-family: Papyrus, fantasy;
-  color: #d98695;
+  color: $darkergray;
 }
 
 .container {
@@ -74,7 +74,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $green;
   }
 }
 
@@ -108,7 +108,7 @@ strong, b {
 }
 
 img {
-  max-width: 150%;
+  max-width: 100%;
 }
 
 // Fixes images in popup boxes from Google Translate
