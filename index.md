@@ -17,7 +17,7 @@ I wanted to challenge my intellectual capability in engineering and decided to g
 I am completing my last semester of the iCAN program this Summer 2022, where I am researching topics in
 robotics and motion planning at the Parasol Laboratory at the Thomas M. Siebel Center, located in the UIUC campus. I will be funded by the DREAM program during my research experience. My advisor is Dr. Nancy M. Amato, the Head of the UIUC Department of CS and a truly inspiring woman. My interests are in applied-motion planning fields such as video games and graphic animation. 
 
-My Parasol Laboratory Biography: [Ana ELissa Cabrera](https://parasollab.web.illinois.edu/people/aec4/)
+My Parasol Laboratory Biography: [Ana Elissa Cabrera](https://parasollab.web.illinois.edu/people/aec4/)
 
 ## About My Advisor
 
