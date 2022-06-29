@@ -6,17 +6,18 @@ title: A.E. Cabrera - DREAM Project Site
 * TOC
 {:toc}
 
-## About Me
+## About Me 
 
 I recently graduated the University of Illinois at Urbana-Champaign (UIUC) with a 
 degree in Political Science and minor in Linguistics. In undergraduate, I took two CS classes
 that piqued my intrinsic curiosity in computers that I developed since childhood. Graduating 
 in 2020 during the pandemic motivated me to question my purpose in life and pursue my dream to become an computer scientist. 
-I wanted to challenge my intellectual capability in engineering and decided to go back to school for the Illinois Computing Accelerator for Non-Specialists (iCAN) program. The UIUC iCAN program offeres college graduates with non-CS Bachelor degrees an opportunity to take accelerated,
-graduate-level CS coursework, conduct research, and prepare for a graduate degree or career in the computer science field. <br>
+I wanted to challenge my intellectual capability in engineering and decided to go back to school for the Illinois Computing Accelerator for Non-Specialists (iCAN) program. Fore information on the iCAN program, click [here](https://cs.illinois.edu/academics/graduate/ican).<br>
 
 I am completing my last semester of the iCAN program this Summer 2022, where I am researching topics in
-robotics and motion planning at the Parasol Laboratory at the Thomas M. Siebel Center, located in the UIUC campus. I will be funded by the DREAM program during my research experience. My advisor is Dr. Nancy M. Amato, the Head of the UIUC Department of CS and a truly inspiring woman. My interests are in applied-motion planning fields such as video games and graphic animation.
+robotics and motion planning at the Parasol Laboratory at the Thomas M. Siebel Center, located in the UIUC campus. I will be funded by the DREAM program during my research experience. My advisor is Dr. Nancy M. Amato, the Head of the UIUC Department of CS and a truly inspiring woman. My interests are in applied-motion planning fields such as video games and graphic animation. 
+
+My Parasol Laboratory Biography: [Ana ELissa Cabrera](https://parasollab.web.illinois.edu/people/aec4/)
 
 ## About My Advisor
 
