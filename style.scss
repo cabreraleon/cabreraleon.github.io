@@ -19,8 +19,9 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  font: 18px/1.4;
+  font-family: Papyrus, fantasy;
+  color: #d98695;
 }
 
 .container {
@@ -32,7 +33,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #d98695;
   font-weight: bold;
 
   line-height: 1.7;
@@ -69,7 +70,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #b76e79;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -107,7 +108,7 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 150%;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -192,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #d98695;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
