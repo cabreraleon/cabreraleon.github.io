@@ -3,13 +3,20 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Ana Elissa Cabrera
 
 # Short bio or description (displayed in the header)
-description: DREAM Project
+description: I recently graduated the Univeristy of Illinois at Urbana-Champaign during the pandemic. 
+I studied Political Science and Linguistics in undergrad but I always had an instrinsic curiosity
+toward Computer Science since I was a little girl. I wanted to challenge my intellectual capability in
+engineering and decided to go back to school for the Illinois Computing Accelerator for Non-Specialists (iCAN) program
+that UIUC offered for college graduates witho non-CS degrees interested in switching their life careers.
+I am completing my last semester of the iCAN program this Summer 2022, where I am researching topics in
+robotics and motion planning at the Parasol Lab. I am also taking a 400-level CS class at my university
+and working a second job. On my free time, I like to dance, draw, play the piano, swim laps, and write.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/aec4.jpg
 
 #
 # Flags below are optional
@@ -18,14 +25,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yourmail@mail.com
+  email: aec4@illinois.edu
   facebook:
-  flickr:
+  linkedin:
   rss: # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://cabreraleon.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -56,7 +63,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
