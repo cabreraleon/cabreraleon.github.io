@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: #355e3b;
+  color: #b76e79;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #355e3b;
   }
 }
 
@@ -122,11 +122,11 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $#b76e79;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $#b76e79;
   background: $lightGray;
 }
 
