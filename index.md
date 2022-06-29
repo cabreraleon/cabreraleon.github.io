@@ -16,10 +16,7 @@ I wanted to challenge my intellectual capability in engineering and decided to g
 graduate-level CS coursework, conduct research, and prepare for a graduate degree or career in the computer science field. <br>
 
 I am completing my last semester of the iCAN program this Summer 2022, where I am researching topics in
-robotics and motion planning at the Parasol Laboratory at the Thomas M. Siebel Center, located in the UIUC campus. 
-I will be funded by the DREAM program during my research experience. My
-advisor is Dr. Nancy M. Amato, the Head of the UIUC Department of CS.  
-My interests are in applied-motion planning fields such as video games and graphic animation.
+robotics and motion planning at the Parasol Laboratory at the Thomas M. Siebel Center, located in the UIUC campus. I will be funded by the DREAM program during my research experience. My advisor is Dr. Nancy M. Amato, the Head of the UIUC Department of CS and a truly inspiring woman. My interests are in applied-motion planning fields such as video games and graphic animation.
 
 ## About My Advisor
 
@@ -29,7 +26,7 @@ Amato received undergraduate degrees in Mathematical Sciences and Economics from
 
 Amato received the 2019 IEEE RAS Leadership Award in Robotics and Automation, the 2019 IROS Harashima Award for Innovative Technologies, the 2014 CRA Habermann Award, the inaugural NCWIT Harrold/Notkin Research and Graduate Mentoring Award in 2014, the 2013 IEEE Hewlett-Packard/Harriet B. Rigas Award, and Texas A&M university-level awards in teaching (2011) and research (2018). She is a Fellow of the AAAI, AAAS, ACM, and IEEE.
 
-Source: [Parasol Laboratory](https://link-url-here.org](https://parasollab.web.illinois.edu/people/amato/short-bio.php)
+Source: [Parasol Laboratory](https://parasollab.web.illinois.edu/people/amato/short-bio.php)
 
 
 ## About My Project
