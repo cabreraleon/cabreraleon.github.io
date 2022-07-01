@@ -6,8 +6,6 @@ title: A.E. Cabrera - DREAM Project Site
 * TOC
 {:toc}
 
-![alt text](http://cabreraleon.github.io/images/strawberry-pattern.jpeg)
-
 ## About Me 
 
 I recently graduated the University of Illinois at Urbana-Champaign (UIUC) with a  degree in Political Science and minor in Linguistics. In undergraduate, I took two CS classes that piqued my intrinsic curiosity in computers that I developed since childhood. Graduating in 2020 during the pandemic motivated me to question my purpose in life and pursue my dream to become an computer scientist. I wanted to challenge my intellectual capability in engineering and decided to go back to university for the Illinois Computing Accelerator for Non-Specialists ([iCAN](https://cs.illinois.edu/academics/graduate/ican)) program.
