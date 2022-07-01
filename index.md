@@ -6,7 +6,7 @@ title: A.E. Cabrera - DREAM Project Site
 * TOC
 {:toc}
 
-![Alt text](https://cabreraleon.github.io/images/pink-robots.jpeg)
+![Alt text](https://cabreraleon.github.io/images/baymax.jpeg)
 
 
 ## About Me 
@@ -39,3 +39,5 @@ My goals are to gain knowledge in robotics and artificial intelligence, research
 ## My Blog
 
 [My Blog](blog.html)
+
+Image Source: "Baymax background" by ArtNote, Devian Art
