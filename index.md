@@ -8,7 +8,7 @@ title: A.E. Cabrera - DREAM Project Site
 
 ## About Me 
 
-I recently graduated the University of Illinois at Urbana-Champaign (UIUC) with a  degree in Political Science and minor in Linguistics. In undergraduate, I took two CS classes that piqued my intrinsic curiosity in computers that I developed since childhood. Graduating in 2020 during the pandemic motivated me to question my purpose in life and pursue my dream to become an computer scientist. I wanted to challenge my intellectual capability in engineering and decided to go back to university for the [Illinois Computing Accelerator for Non-Specialists](https://cs.illinois.edu/academics/graduate/ican)(iCAN) program.
+I recently graduated the University of Illinois at Urbana-Champaign (UIUC) with a  degree in Political Science and minor in Linguistics. In undergraduate, I took two CS classes that piqued my intrinsic curiosity in computers that I developed since childhood. Graduating in 2020 during the pandemic motivated me to question my purpose in life and pursue my dream to become an computer scientist. I wanted to challenge my intellectual capability in engineering and decided to go back to university for the Illinois Computing Accelerator for Non-Specialists ([iCAN](https://cs.illinois.edu/academics/graduate/ican)) program.
 
 I plan to complete my last semester of the iCAN program this Summer 2022, where I will conduct research on 
 robotics and motion planning at the Parasol Laboratory located in the Thomas M. Siebel Center for CS. I will be funded by the DREAM program during my research experience. My advisor is Dr. Nancy M. Amato, the Head of the UIUC Department of CS and a truly inspiring woman. My interests are in applied-motion planning fields such as video games and graphic animation. 
