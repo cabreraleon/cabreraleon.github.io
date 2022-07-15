@@ -13,7 +13,7 @@ without covering their mouth, despite there still being a pandemic. The day afte
 it seriously. I let some people know that I felt uncomfortable if they didn't have face-coverings and even gave them a clean disposable mask,
 but that did not matter in the long-run. Communication with humans was kinda failing me, and I had no idea how to Professionally tackle this social qualm. 
 
-![alt text](http://cabreraleon.github.io/images/nightmate.png)
+![alt text](http://cabreraleon.github.io/images/nightmare.png)
 
 The biggest social challenge I experience was when I was having a conversation with a grad student and she coughed directly onto my face.
 She tried to cover her second cough with her hand but there was no point. I felt disrespected and grossed out, since there was no excuse,
