@@ -17,14 +17,14 @@ Files in Experiment/Maze:
 * Obstacle Files: block1.g, block2.g, block3.g (longer files with many coordinates that map each obstacle)
 
 Understanding the Files
-![]((https://cabreraleon.github.io/images/m3-pt1-files.png)
+![m3files](https://cabreraleon.github.io/images/m3-pt1-files.png)
 
 
 #### Step 2: Evaluation ####
 
 First, I changed the code in the Problem section of the CfgExamples.xml File to match the files of the maze example that I will be testing.
 
-![]((https://cabreraleon.github.io/images/m3-pt1-code.png)
+![m3code](https://cabreraleon.github.io/images/m3-pt1-code.png)
 
 Then, I ran a terminal command in the PMPL/pmpl/src Directory 
 --   ./pmpl -f Examples/CfgExamples.xml   --  to run PMPL.
@@ -39,4 +39,4 @@ is an undirected graph R composed of nodes and edges. The configurations are the
 computed by the local planner are the edges of R. The image below shows the results of the 
 vizmo representation of these files. Each color represents a connected component in this graph.
 
-![]((https://cabreraleon.github.io/images/module3-maze-benchmark-result.png)
+![m3results](https://cabreraleon.github.io/images/module3-maze-benchmark-result.png)
