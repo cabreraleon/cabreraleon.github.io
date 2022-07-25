@@ -1,0 +1,42 @@
+---
+layout: post
+title: Week 7 - Module 3 Part 1
+---
+
+## MODULE 3.1 TESTING MAZE BENCHMARK ##
+
+The benchmark I will be testing is Maze. I will use Vizmo software to visualize a probabilistic roadmap on the maze environment. 
+This test will be run on the Ubuntu Linux operating system. 
+
+#### Step 1: Experimental Set-Up ####
+
+Files in Experiment/Maze: 
+* Environment Files: Maze-vizmo.env , maze-vizmo.env, 
+* Maze Files: maze.robot, robot.g, 
+* Query Files: maze.query, 
+* Obstacle Files: block1.g, block2.g, block3.g (longer files with many coordinates that map each obstacle)
+
+Understanding the Files
+![]((https://cabreraleon.github.io/images/m3-pt1-files.png)
+
+
+#### Step 2: Evaluation ####
+
+First, I changed the code in the Problem section of the CfgExamples.xml File to match the files of the maze example that I will be testing.
+
+![]((https://cabreraleon.github.io/images/m3-pt1-code.png)
+
+Then, I ran a terminal command in the PMPL/pmpl/src Directory 
+--   ./pmpl -f Examples/CfgExamples.xml   --  to run PMPL.
+
+
+#### Step 3: Results ####
+
+Running PMPL with the CfgExamples.xml produced a file titled example.12345678.query.map that represents 
+the probabilistic roadmap in the maze environment. In Vizmo, I uploaded the maze-vizmo.env file to visualize 
+the maze environment as well as the example.12345678.query.map file to visualize the roadmap. The roadmap 
+is an undirected graph R composed of nodes and edges. The configurations are the nodes of R and the paths 
+computed by the local planner are the edges of R. The image below shows the results of the 
+vizmo representation of these files. Each color represents a connected component in this graph.
+
+![]((https://cabreraleon.github.io/images/module3-maze-benchmark-result.png)
