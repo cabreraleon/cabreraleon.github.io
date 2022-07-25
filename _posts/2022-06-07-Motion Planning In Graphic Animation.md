@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1: Motion Planning in Graphic Animation
+title: Week 1
 ---
 Path planning is critical to developing high-quality, realistic video games. Gamers are less likely to reject video games where animated characters move
 in a realistic, natural path in a virtual plane with many obstacles. One of the more complex problems that motion planning can solve in graphic animation
