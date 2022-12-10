@@ -3,6 +3,8 @@ layout: post
 title: Parasol Laboratory Orientation
 ---
 
+My first week of research at Parasol Laboratroy was surreal, I never thought that a former political science student would make it so far in computer science. I felt brave for having stepped out of my comfort zone, shown my confidence in my intelligence to learn robotics, and courage to attend my first day of orientation.
+
 #### Wednesday, June 1, 2022: <br>
 
 Today was my first day of my research program at the Parasol Laboratory. The schedule for today
