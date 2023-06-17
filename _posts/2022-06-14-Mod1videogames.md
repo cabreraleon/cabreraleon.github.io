@@ -12,14 +12,14 @@ According to Overmars (2005),  path planning in video games is usually computed 
 <br>
 
 ![module1assignment](https://cabreraleon.github.io/images/fig5.png)
-Figure 1. Kingdom Hearts Characters in Motion. Sora, Donald, Goofy, and Baymax are moving in a flock within the virtual free space without colliding into the  obstacles or each other.  In the roadmap at the top right corner, the flock of multiple characters is represented by the keychain icon, the free space is the blue area, and the obstacles are represented by white lines. (Source: Square Enix and Disney, 2019).
+**Figure 5. Kingdom Hearts Characters in Motion.** Sora, Donald, Goofy, and Baymax are moving in a flock within the virtual free space without colliding into the  obstacles or each other.  In the roadmap at the top right corner, the flock of multiple characters is represented by the keychain icon, the free space is the blue area, and the obstacles are represented by white lines. (Source: Square Enix and Disney, 2019).
 
 <br>
 
 This motivated Overmars to propose a better way to create better roadmaps by creating nodes that lie far away from obstacles and then sampling near the Voroni diagram to increase the clearance in the configuration space, and then adding additional edges to create cycles in the roadmap graph to avoid long detours. Instead of only finding a straight line between two nodes that are collision free, their method also takes in circle arcs. Their roadmaps can be used in the query phase without the need for any post-processing. Basically, he still used PRM but they added his own techniques to the algorithm to create better roadmaps. The figure below illustrates his modified method.
 
-![module1assignment](https://cabreraleon.github.io/images/fig6.png)
-Figure 2. An example of a smooth roadmap completed in Overmars (2005)
+![overmars](https://cabreraleon.github.io/images/fig6.png)
+**Figure 6. An example of a smooth roadmap completed in Overmars (2005)**
 
 
 
