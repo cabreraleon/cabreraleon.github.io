@@ -3,8 +3,7 @@ layout: post
 title: Parasol Orientation
 ---
 
-Today was my first day of my research program at the Parasol Laboratory. The schedule for today
-was a one hour presentation to introduce us to the Parsaol Lab,
+Today was my first day of my research program at the Parasol Laboratory. The schedule for today was a one hour presentation to introduce us to the Parsaol Lab,
 the crash course schedule, meeting dates and expectations. After this meeting,
 all my labmates and I went downstairs for the first Lunch and Learn event held
 by my university's Department of Computer Science. 
