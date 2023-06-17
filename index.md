@@ -16,6 +16,8 @@ robotics and motion planning at the Parasol Laboratory located in the Thomas M. 
 
 My Parasol Website: [Parasol Laboratory - Ana Elissa Cabrera](https://parasollab.web.illinois.edu/people/aec4/)
 
+My Github Repository: [cabreraleon](https://github.com/cabreraleon/cabreraleon.github.io)
+
 ## About My Advisor
 
 Nancy M. Amato is Head of the Computer Science Department and Abel Bliss Professor of Engineering at the University of Illinois at Urbana-Champaign. Before joining Illinois in 2019, she was Unocal Professor and Regents Professor in the Department of Computer Science and Engineering at Texas A&M University and Senior Director of Engineering Honors Programs.
@@ -32,7 +34,7 @@ Source: [Parasol Laboratory - Nancy M. Amato](https://parasollab.web.illinois.ed
 The Parasol Motion Planning Library (PMPL) is an open-source project that calls for the exploration of robotic interaction, task and motion planning, multi-robot systems, and other critical robotics discoveries. I expect to learn stellar practices for open source software development and how to refactor existing PPL code. Code refactoring will ensure the code is modular to avoid complex dependencies, well documented so that it is user-friendly to the public, and that it correctly abides by its pseudocode. I am expected to write test-cases for the PPL algorithms, expand the PPL, and develop visualization tools such as user manuals, tutorials, and websites for the public. I am also expected to attend weekly open source project meetings and Parasol Laboratory meetings.
 My goals are to gain knowledge in robotics and artificial intelligence, research motion planning algorithms such as Adaptive RRT, learn C++, help develop open-source software, improve my algorithm design skills, and contribute to the PMPL. 
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/ppl_report.pdf)
 
 ## My Blog
 

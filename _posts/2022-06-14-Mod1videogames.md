@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Module 1 - Videogames
+title: Module 1 - Motion Planning in Videogames
 ---
 
 Motion planning is critical to developing high-quality, realistic graphic animation for video games. Gamers are less likely to reject video games where animated characters move in a realistic, natural path in a virtual plane with many obstacles. One main problem that motion planning can solve in graphic animation is when video game entities must move in groups. For example, in the Kingdom Hearts video games by Square Enix and Disney, the player-controlled character, Sora, navigates his path with two or more non-player controlled (NPC) characters, Donald and Goofy (shown below). All entities must find collision-free paths when traveling as a flock without deviating too far from each other or making unnatural movements like walking towards an enemy or moving in manners that aren't human or animal-like. This  can lead to characters getting stuck or walking through obstacles instead of around them, which I witnessed multiple times.

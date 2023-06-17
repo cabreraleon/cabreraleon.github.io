@@ -1,11 +1,9 @@
 ---
 layout: post
-title: The Adaptive Neighborhood Connector
+title: Adaptive Neighborhood Connector - Motivation and Related Works
 ---
 
-For motion planning in heterogeneous environments and parallel machines, it can become infeasible for humans to hand-pick the best connector method for PRM variants at each step of a problem. 
-In Heterogeneous Environments, different algorithm choices may apply for different regions
-In Parallel Processing, subdivision is often used to increase parallelism so each region can be processed independently
+For motion planning in heterogeneous environments and parallel machines, it can become infeasible for humans to hand-pick the best connector method for PRM variants at each step of a problem. In Heterogeneous Environments, different algorithm choices may apply for different regions. In Parallel Processing, subdivision is often used to increase parallelism so each region can be processed independently
 Manually selecting a single connector across all problems can lead to poor performance overall. We need a way to automatically and adaptively select the best connector depending on the problem at hand and its input. This problem inspired Chinwe Ekenna, Sam Ade Jacobs, Shawna Thomas, Nancy M. Amato to develop the Adaptive Neighborhood Connector algorithm for robotic motion planning.
 
 
