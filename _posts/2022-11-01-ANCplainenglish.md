@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Translate the ANC Pseudocode into Simple English.
+title: Step 4 - Translate the ANC Pseudocode into Simple English.
 ---
 
-This week, I completed Step 4of my [Refactoring Plan](cabreraleon.github.io/ANCrefactorplan).
+This week, I completed Step 4 of my [Refactoring Plan](https://cabreraleon.github.io/ANCrefactorplan/).
