@@ -3,10 +3,10 @@ layout: post
 title: Steps 5 and 6 - Run the Released ANC Code in the PPL master branch and Checkout my Own Branch
 ---
 
-This week, I completed Step 3 of my [Refactoring Plan](cabreraleon.github.io/ANCrefactorplan).
+This week, I completed Step 3 of my [Refactoring Plan](https://cabreraleon.github.io/ANCrefactorplan/).
 
 ### Step 5. Run the code in the master branch of the PPL to see what has already been released for public use in present time.
-    This will provide a good indication of where the other laboratory students left off in the last refactoring process of the ANC code. The last commit pushed to the PPL master branch was roughly two years ago. 
+
+
 
 ### Step 6. Check out my own GitLab branch, AdaptiveConnector, and start my refactoring work there.
-    Checking out to my own gitlab branch will allow me to refactor my code seperately without affecting the PPL codebase in the master branch or anyone elses' code elsewhere.  
