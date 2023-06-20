@@ -31,10 +31,10 @@ I created a plan of action to refactor the Adaptive Connector method in the PPL.
 5. ### Run the code in the master branch of the PPL to see what has already been released for public use in present time.
     This will provide a good indication of where the other laboratory students left off in the last refactoring process of the ANC code. The last commit pushed to the PPL master branch was roughly two years ago. <br>
 
-6. ### Check out my own GitLab branch, AdaptiveConnector, and start my refactoring work there.
-    Checking out to my own gitlab branch will allow me to refactor my code seperately without affecting the PPL codebase in the master branch or anyone elses' code elsewhere. <br>
+6. ### Set Up My Environment and Check Out my own GitLab branch.
+    Checking out to my own gitlab branch will allow me to refactor my code seperately without affecting the PPL codebase in the master branch or anyone elses' code elsewhere. I checked out to the AdaptiveConnector branch and did my refactoring there.<br>
 
-7. ### Run the Adaprive Connector code. If the code contains a bug, locate, dissect, and debug it. Repeat until the program returns the expected output file, which must be a connected graph G with additional edges.
+7. ### Run the AdaptiveConnector code. If the code contains a bug, locate, dissect, and debug it. Repeat until the program returns the expected output file, which must be a connected graph G with additional edges.
     Ensure to write well-written, detailed yet simple to follow comments of what key code chunks do. Remember to add @TODO comments to not forget what you must work on next. My goal at this step is to ensure the ANC program outputs a connected graph. However, it is important to note that **code can run smoothly with no bugs and still output expected outputs that are incorrect and unreliable**. This is why testing, the next step, is so important. <br>
 
 8. ### Develop tests for the Adaptive Connector code to ensure that the output is expected, correct, *and* reliable. The tests must be unique, in varying environments with varying k-values, and signifanct.
