@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Steps 7 and 8 - Run, Debug, and Test the AdaptiveConnector.h
+title: Steps 6 and 7 - Run, Debug, and Test the AdaptiveConnector.h
 ---
 
 This week, I worked on the last two steps of my [Refactoring Plan](https://cabreraleon.github.io/ANCrefactorplan/). Running and debugging code is challenging. You fix one thing, another bug crawls in your code. This process has been difficult so far.
 
-### Step 7. Run the Adaptive Connector code. If the code contains a bug, locate, dissect, and debug it. Repeat until the program returns the expected output file, which must be a connected graph G with additional edges.
+### Step 6. Run the Adaptive Connector code. If the code contains a bug, locate, dissect, and debug it. Repeat until the program returns the expected output file, which must be a connected graph G with additional edges.
+
+ My refactoring work was done on the Parasol Virtual Machine Nancy Drew, which runs on MATE Linux. I configured the FastX3 toolkit to render the remote laboratory Linux servers on my laptop. My laptop model is Lenovo ThinkPad X1 Carbon Generation 9, runs on Ubuntu Linux 22.04, has 16.0 gibibyte memory, and a 11th Gen Intel® Core™ i5-1135G7 @ 2.40GHz × 8 processor. In one experiment run in Ekenna et al (2013), the ANC was tested in a Maze environment, therefore this is the environment I used to run and debug the ANC code. 
 
 ---
 
-### Step 8. Develop tests for the Adaptive Connector code to ensure that the output is expected, correct, *and* reliable. The tests must be unique, in varying environments with varying k-values, and signifanct.
+### Step 7. Develop tests for the Adaptive Connector code to ensure that the output is expected, correct, *and* reliable. The tests must be unique, in varying environments with varying k-values, and signifanct.
 
-The ANC algorithm has two main helpers.
+The ANC algorithm has two main helpers. These two helpers were referenced when I mapped the C++ code for them to key steps in the ANC pseudocode in [this blog post](https://cabreraleon.github.io/ANCpseudocode/). For more information on how these helpers work, you can see my plain English explanation on their signifcance on [thi blog post](https://cabreraleon.github.io/ANCplainenglish/).
 
 1. #### UpdateNFChoice() { … }
     + Updates the NF Based on the probability score it received and returns a string
@@ -44,3 +46,5 @@ So how do you think I should test the ANC, given that the NF being used changes 
 
 ### Future Works
 Testing the ANC has many challenges. Although I did refactor some of the AdaptiveConnector.h code, the complex nature of this connector made it difficult to create successfull tests for this connector. 
+
+<br>

@@ -9,6 +9,10 @@ This week, I completed Step 3 of my [Refactoring Plan](https://cabreraleon.githu
 
 ![ANCpseudocode](https://cabreraleon.github.io/images/ancpseudocode.png) <br>
 
+![mapping0req](https://cabreraleon.github.io/images/ancmap0req.png) <br>
+<br>
+
+
 ![mapping1](https://cabreraleon.github.io/images/ancmap1.png) <br>
 <br>
 
